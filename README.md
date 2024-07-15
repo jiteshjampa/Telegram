@@ -10,15 +10,15 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://snipboard.io/1lFecR.jpg" alt="project-screenshot" width="800" height="800/">
+<img src="https://snipboard.io/1lFecR.jpg" alt="project-screenshot" width="400" height="800/">
 
-<img src="https://snipboard.io/4qc1hN.jpg" alt="project-screenshot" width="800" height="800/">
+<img src="https://snipboard.io/4qc1hN.jpg" alt="project-screenshot" width="400" height="800/">
 
-<img src="https://snipboard.io/6w7OPN.jpg" alt="project-screenshot" width="800" height="800/">
+<img src="https://snipboard.io/6w7OPN.jpg" alt="project-screenshot" width="400" height="800/">
 
 <img src="https://snipboard.io/TpYLuk.jpg" alt="project-screenshot" width="400" height="700/">
 
-<img src="https://snipboard.io/5hM1gk.jpg" alt="project-screenshot" width="800" height="800/">
+<img src="https://snipboard.io/5hM1gk.jpg" alt="project-screenshot" width="400" height="800/">
 
 <img src="https://snipboard.io/sTGrE8.jpg" alt="project-screenshot" width="400" height="700/">
 
